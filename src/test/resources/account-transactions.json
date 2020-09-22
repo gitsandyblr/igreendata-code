@@ -1,0 +1,94 @@
+[
+  {
+    "accountNumber":"321143048",
+    "accountName":"Current Account",
+    "valueDate":"Jan 12, 2012",
+    "currency":"SGD",
+    "debitAmount": 0,
+    "creditAmount": 9540.98,
+    "dbCr":"Credit",
+    "transactionNarrative":""
+  },
+  {
+     "accountNumber":"321143048",
+  "accountName":"Current Account",
+  "valueDate":"Jan 12, 2012",
+  "currency":"SGD",
+  "debitAmount": 0,
+  "creditAmount": 4325.98,
+  "dbCr":"Credit",
+  "transactionNarrative":""
+}, {
+  "accountNumber":"321143048",
+  "accountName":"Current Account",
+  "valueDate":"Jan 12, 2012",
+  "currency":"SGD",
+  "debitAmount": 0,
+  "creditAmount": 5435.34,
+  "dbCr":"Credit",
+  "transactionNarrative":""
+}, {
+  "accountNumber":"321143048",
+  "accountName":"Current Account",
+  "valueDate":"Jan 12, 2012",
+  "currency":"SGD",
+  "debitAmount": 0,
+  "creditAmount": 7654.12,
+  "dbCr":"Credit",
+  "transactionNarrative":""
+}, {
+  "accountNumber":"321143048",
+  "accountName":"Current Account",
+  "valueDate":"Jan 12, 2012",
+  "currency":"SGD",
+  "debitAmount": 0,
+  "creditAmount": 9213.12,
+  "dbCr":"Credit",
+  "transactionNarrative":""
+}, {
+  "accountNumber":"321143048",
+  "accountName":"Current Account",
+  "valueDate":"Jan 12, 2012",
+  "currency":"SGD",
+  "debitAmount": 0,
+  "creditAmount": 3452.65,
+  "dbCr":"Credit",
+  "transactionNarrative":""
+}, {
+  "accountNumber":"347786244",
+  "accountName":"Current Account",
+  "valueDate":"Jan 12, 2012",
+  "currency":"SGD",
+  "debitAmount": 0,
+  "creditAmount": 1244.65,
+  "dbCr":"Credit",
+  "transactionNarrative":""
+}, {
+  "accountNumber":"347786244",
+  "accountName":"Current Account",
+  "valueDate":"Jan 12, 2012",
+  "currency":"SGD",
+  "debitAmount": 0,
+  "creditAmount": 7564.12,
+  "dbCr":"Credit",
+  "transactionNarrative":""
+}, {
+  "accountNumber":"347786244",
+  "accountName":"Current Account",
+  "valueDate":"Jan 12, 2012",
+  "currency":"SGD",
+  "debitAmount": 0,
+  "creditAmount": 1287.12,
+  "dbCr":"Credit",
+  "transactionNarrative":""
+}, {
+  "accountNumber":"347786244",
+  "accountName":"Current Account",
+  "valueDate":"Jan 12, 2012",
+  "currency":"SGD",
+  "debitAmount": 0,
+  "creditAmount": 4356.76,
+  "dbCr":"Credit",
+  "transactionNarrative":""
+}
+]

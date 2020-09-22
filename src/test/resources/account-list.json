@@ -1,0 +1,101 @@
+[
+  {
+    "accountNumber":"585309209",
+    "accountName":"SGSavings726",
+    "accountType":"Savings",
+    "balanceDate":"08/11/2018",
+    "currency":"SGD",
+    "openingAvailableBalance":84327.51
+
+  },
+  {
+    "accountNumber":"791066619",
+    "accountName":"AUSavings933",
+    "accountType":"Savings",
+    "balanceDate":"08/11/2018",
+    "currency":"AUD",
+    "openingAvailableBalance":88005.93
+
+  },
+  {
+    "accountNumber":"321143048",
+    "accountName":"AUCurrent433",
+    "accountType":"Current",
+    "balanceDate":"08/11/2018",
+    "currency":"AUD",
+    "openingAvailableBalance":38010.62
+
+  },
+  {
+    "accountNumber":"347786244",
+    "accountName":"SGCurrent166",
+    "accountType":"Current",
+    "balanceDate":"08/11/2018",
+    "currency":"SGD",
+    "openingAvailableBalance":50664.65
+
+  },
+  {
+    "accountNumber":"680168913",
+    "accountName":"AUCurrent374",
+    "accountType":"Current",
+    "balanceDate":"08/11/2018",
+    "currency":"AUD",
+    "openingAvailableBalance":41327.28
+
+  },
+  {
+    "accountNumber":"136056165",
+    "accountName":"AUSavings938",
+    "accountType":"Savings",
+    "balanceDate":"08/11/2018",
+    "currency":"AUD",
+    "openingAvailableBalance":48928.79
+
+  },
+  {
+    "accountNumber":"453963528",
+    "accountName":"SGSavings842",
+    "accountType":"Savings",
+    "balanceDate":"08/11/2018",
+    "currency":"SGD",
+    "openingAvailableBalance":72117.53
+
+  },
+  {
+    "accountNumber":"334666982",
+    "accountName":"AUSavings253",
+    "accountType":"Savings",
+    "balanceDate":"08/11/2018",
+    "currency":"AUD",
+    "openingAvailableBalance":20588.16
+
+  },
+  {
+    "accountNumber":"793949180",
+    "accountName":"AUCurrent754",
+    "accountType":"Current",
+    "balanceDate":"08/11/2018",
+    "currency":"AUD",
+    "openingAvailableBalance":88794.48
+
+  },
+  {
+    "accountNumber":"768759901",
+    "accountName":"AUCurrent294",
+    "accountType":"Current",
+    "balanceDate":"08/11/2018",
+    "currency":"SGD",
+    "openingAvailableBalance":5906.55
+
+  },
+  {
+    "accountNumber":"847257972",
+    "accountName":"AUCurrent591",
+    "accountType":"Current",
+    "balanceDate":"08/11/2018",
+    "currency":"AUD",
+    "openingAvailableBalance":92561.68
+
+  }
+]

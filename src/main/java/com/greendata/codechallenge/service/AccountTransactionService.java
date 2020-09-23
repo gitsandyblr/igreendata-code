@@ -22,12 +22,5 @@ public class AccountTransactionService {
         List<AccountTransaction> transactions = new ArrayList<>();
         transactions = repository.findByAccountNumber(accountNumber);
         return transactions;
-
-        /*AccountTransaction transaction = AccountTransaction.builder()
-                .accountNumber("321143048").accountName("Current Account").valueDate("Jan 12, 2012")
-                .currency("SGD").debitAmount(0).creditAmount(9540.98).dbCr("Credit")
-                .transactionNarrative("").build();
-
-        return Arrays.asList(transaction);*/
     }
 }

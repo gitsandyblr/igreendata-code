@@ -19,10 +19,6 @@ public class AccountListService {
     public List<Account> getAccountList(){
         log.info("AccountListService: Fetching all accounts from repository ");
 
-       /* Account account = Account.builder().accountNumber("585309209").accountName("SGSavings726")
-                .accountType("Savings").balanceDate("08/11/2018").currency("SGD")
-                .openingAvailableBalance(84327.51).build();*/
-
         List<Account> accounts = new ArrayList<>();
         repository.findAll().forEach(account -> accounts.add(account));
         return accounts;
